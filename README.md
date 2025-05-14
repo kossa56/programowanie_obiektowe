@@ -20,7 +20,9 @@ Wyświetlanie aktualnego wyniku na ekranie
 2. Efekty Wizualne
 Eksplozje przy zniszczeniu asteroid:
 
-Różne kolory w zależności od rozmiaru asteroidy
+Różne kolory w zależności od rozmiaru asteroidy![Zrzut ekranu 2025-05-14 214841](https://github.com/user-attachments/assets/86b77102-0696-45b3-8181-ec06b3a2f684)
+![Zrzut ekranu 2025-05-14 214802](https://github.com/user-attachments/assets/9f5584b1-3faf-4a88-b7a0-22d70d9fd1b3)
+
 
 Efekt rozszerzającego się okręgu z fade-outem
 
