@@ -1,3 +1,11 @@
+
+
+
+![Zrzut ekranu 2025-05-14 214841](https://github.com/user-attachments/assets/b6b23a68-bdd9-4682-a856-a4775d5fea24)
+![Zrzut ekranu 2025-05-14 214802](https://github.com/user-attachments/assets/82c0d7b7-437d-4a5f-afcf-fd91969841b4)
+
+
+
 Opis Projektu
 Rozszerzona wersja klasycznej gry Asteroids, zaimplementowana z wykorzystaniem zasad programowania obiektowego (OOP) w C++ z użyciem biblioteki Raylib.
 
@@ -20,9 +28,7 @@ Wyświetlanie aktualnego wyniku na ekranie
 2. Efekty Wizualne
 Eksplozje przy zniszczeniu asteroid:
 
-Różne kolory w zależności od rozmiaru asteroidy![Zrzut ekranu 2025-05-14 214841](https://github.com/user-attachments/assets/86b77102-0696-45b3-8181-ec06b3a2f684)
-![Zrzut ekranu 2025-05-14 214802](https://github.com/user-attachments/assets/9f5584b1-3faf-4a88-b7a0-22d70d9fd1b3)
-
+Różne kolory w zależności od rozmiaru asteroidy
 
 Efekt rozszerzającego się okręgu z fade-outem
 
